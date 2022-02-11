@@ -10,4 +10,5 @@ class Car {
 
 let myCar = new Car('Tesla', 'Model S', 2019)
 console.log(myCar)
+console.log('again, making a change')
 console.log('just making a change')
